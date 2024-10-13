@@ -1,0 +1,3 @@
+[submodule "ActionRPG"]
+	path = ActionRPG
+	url = git@github.com:MattKoczy/ActionRPG.git
